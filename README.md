@@ -1,2 +1,5 @@
 # Introduction
-Some details about me.
+
+Hello, I am Nick Patel.
+
+I like coding, sports, movies....
